@@ -1,8 +1,8 @@
 ## Seja bem vindo! Eu sou Cristiano Rodrigues
 <div align="center">
-  <a href="https://github.com/cristianogithub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianogithub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianogithub&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/hubcristiano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hubcristiano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubcristiano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cristiano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
